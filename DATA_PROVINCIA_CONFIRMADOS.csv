@@ -1,186 +1,201 @@
-﻿MES,FECHA,PROVINCIA,CONFIRMADOS,ACUMULADO,Fuente
-03/2020,03/03/2020,CABA,1,1,https://www.cronista.com/informaciongral/Confirman-el-primer-caso-de-coronavirus-en-la-Argentina-20200303-0027.html
-03/2020,04/03/2020,,0,1,
-03/2020,05/03/2020,CABA,1,2,https://www.cronista.com/informaciongral/Confirman-el-segundo-caso-de-coronavirus-en-Argentina-20200305-0056.html
-03/2020,06/03/2020,CABA,4,6,https://www.cronista.com/informaciongral/Coronavirus-el-Ministerio-de-Salud-confirmo-6-nuevos-casos--20200306-0025.html
-03/2020,06/03/2020,BUENOS AIRES,1,7,https://www.cronista.com/informaciongral/Coronavirus-el-Ministerio-de-Salud-confirmo-6-nuevos-casos--20200306-0025.html
-03/2020,06/03/2020,CÓRDOBA,1,8,https://www.cronista.com/informaciongral/Coronavirus-el-Ministerio-de-Salud-confirmo-6-nuevos-casos--20200306-0025.html
-03/2020,07/03/2020, ,0,8,
-03/2020,08/03/2020,CABA,2,10,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,08/03/2020,BUENOS AIRES,2,12,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,09/03/2020,CABA,1,13,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,09/03/2020,SAN LUIS,1,14,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,09/03/2020,CHACO,2,16,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,09/03/2020,RÍO NEGRO,1,17,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,10/03/2020,CABA,1,18,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,10/03/2020,BUENOS AIRES,1,19,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,11/03/2020,CABA,1,20,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,11/03/2020,BUENOS AIRES,1,21,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,12/03/2020,CÓRDOBA,2,23,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,12/03/2020,BUENOS AIRES,3,26,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,12/03/2020,CHACO,2,28,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,12/03/2020,CABA,3,31,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,13/03/2020,BUENOS AIRES,1,32,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,13/03/2020,CABA,2,34,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,14/03/2020,CABA,7,41,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,14/03/2020,SANTA FE,1,42,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,14/03/2020,CHACO,1,43,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,14/03/2020,BUENOS AIRES,2,45,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Argentina
-03/2020,15/03/2020,CABA,6,51,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,15/03/2020,CHACO,2,53,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,15/03/2020,TIERRA DEL FUEGO,2,55,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,15/03/2020,BUENOS AIRES,1,56,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,16/03/2020,CABA,5,61,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,16/03/2020,CHACO,3,64,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,16/03/2020,BUENOS AIRES,1,65,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,CABA,4,69,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,BUENOS AIRES,2,71,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,CHACO,1,72,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,CÓRDOBA,2,74,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,JUJUY,1,75,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,SALTA,1,76,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,RÍO NEGRO,1,77,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,ENTRE RÍOS,1,78,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,17/03/2020,SANTA CRUZ,1,79,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,18/03/2020,CABA,10,89,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,18/03/2020,CHACO,1,90,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,18/03/2020,BUENOS AIRES,5,95,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,18/03/2020,CÓRDOBA,1,96,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,18/03/2020,ENTRE RÍOS,1,97,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,BUENOS AIRES,15,112,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,CABA,8,120,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,CÓRDOBA,3,123,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,CHACO,2,125,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,TUCUMÁN,1,126,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,SANTA FE,1,127,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,19/03/2020,RÍO NEGRO,1,128,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,BUENOS AIRES,9,137,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,CABA,9,146,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,CÓRDOBA,5,151,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,CHACO,1,152,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,TIERRA DEL FUEGO,1,153,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,ENTRE RÍOS,1,154,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,CORRIENTES,1,155,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,NEUQUÉN,2,157,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,20/03/2020,SANTIAGO DEL ESTERO,1,158,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,CABA,29,187,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,BUENOS AIRES,15,202,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,CHACO,5,207,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,MENDOZA,5,212,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,CÓRDOBA,4,216,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,TIERRA DEL FUEGO,3,219,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,CORRIENTES,2,221,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,SANTA FE,2,223,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,TUCUMÁN,1,224,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,21/03/2020,RÍO NEGRO,1,225,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,22/03/2020,CABA,12,237,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,22/03/2020,BUENOS AIRES,8,245,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,22/03/2020,CÓRDOBA,8,253,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,22/03/2020,CHACO,7,260,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,22/03/2020,TUCUMÁN,5,265,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,22/03/2020,MISIONES,1,266,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,23/03/2020,CABA,11,277,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,23/03/2020,BUENOS AIRES,5,282,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,23/03/2020,SANTA FE,13,295,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,23/03/2020,CÓRDOBA,2,297,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,23/03/2020,CHACO,4,301,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,BUENOS AIRES,30,331,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,CABA,30,361,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,CHACO,9,370,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,CÓRDOBA,7,377,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,TIERRA DEL FUEGO,4,381,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,SANTA FE,3,384,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,LA PAMPA,1,385,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,NEUQUÉN,1,386,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,24/03/2020,SANTA CRUZ,1,387,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,BUENOS AIRES,29,416,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,SANTA FE,22,438,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,CABA,20,458,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,CÓRDOBA,15,473,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,CHACO,12,485,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,SANTA CRUZ,5,490,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,SAN LUIS,4,494,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,ENTRE RÍOS,3,497,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,TUCUMÁN,2,499,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,MENDOZA,1,500,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,NEUQUÉN,1,501,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,25/03/2020,TIERRA DEL FUEGO,1,502,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,CABA,30,532,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,BUENOS AIRES,27,559,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,SANTA FE,12,571,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,CHACO,3,574,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,CÓRDOBA,3,577,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,TIERRA DEL FUEGO,3,580,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,NEUQUÉN,3,583,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,JUJUY,2,585,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,SANTA CRUZ,2,587,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,MENDOZA,1,588,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,26/03/2020,SAN LUIS,1,589,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,CABA,30,619,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,BUENOS AIRES,35,654,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,CHACO,5,659,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,CÓRDOBA,1,660,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,TUCUMÁN,6,666,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,SANTA FE,10,676,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,ENTRE RÍOS,4,680,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,NEUQUÉN,3,683,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,MENDOZA,1,684,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,RÍO NEGRO,4,688,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,CORRIENTES,1,689,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,SANTIAGO DEL ESTERO,1,690,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,27/03/2020,MISIONES,0,690,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,CABA,18,708,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,BUENOS AIRES,8,716,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,SANTA FE,13,729,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,CHACO,5,734,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,CÓRDOBA,1,735,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,TIERRA DEL FUEGO,3,738,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,NEUQUÉN,2,740,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,MENDOZA,1,741,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,28/03/2020,CORRIENTES,4,745,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,BUENOS AIRES,16,761,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,CABA,13,774,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,CHACO,4,778,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,SANTA FE,13,791,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,CÓRDOBA,18,809,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,TIERRA DEL FUEGO,4,813,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,SAN JUAN,1,814,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,CORRIENTES,1,815,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,LA PAMPA,2,817,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,LA RIOJA,1,818,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,MENDOZA,1,819,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,29/03/2020,MISIONES,1,820,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,BUENOS AIRES,36,856,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,CABA,34,890,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,CHACO,12,902,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,SANTA FE,21,923,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,CÓRDOBA,8,931,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,TIERRA DEL FUEGO,11,942,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,CORRIENTES,10,952,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,ENTRE RÍOS,3,955,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,MENDOZA,3,958,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,30/03/2020,NEUQUÉN,8,966,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,BUENOS AIRES,17,983,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,CABA,19,1002,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,CHACO,3,1005,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,CÓRDOBA,14,1019,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,CORRIENTES,1,1020,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,MENDOZA,2,1022,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,MISIONES,1,1023,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,RÍO NEGRO,1,1024,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,SANTA FE,22,1046,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,TIERRA DEL FUEGO,7,1053,https://www.argentina.gob.ar/coronavirus/informe-diario
-03/2020,31/03/2020,TUCUMÁN,1,1054,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,BUENOS AIRES,10,1064,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,CABA,10,1074,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,CHACO,12,1086,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,CÓRDOBA,6,1092,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,CORRIENTES,1,1093,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,ENTRE RÍOS,1,1094,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,MENDOZA,10,1104,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,NEUQUÉN,4,1108,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,SALTA,2,1110,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,SAN LUIS,1,1111,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,SANTA CRUZ,10,1121,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,SANTA FE,11,1132,https://www.argentina.gob.ar/coronavirus/informe-diario
-04/2020,01/04/2020,TUCUMÁN,1,1133,https://www.argentina.gob.ar/coronavirus/informe-diario
+﻿MES,FECHA,PROVINCIA,CONFIRMADOS,CONF_ACUM
+03/2020,03/03/2020,CABA,1,1
+03/2020,04/03/2020,,0,1
+03/2020,05/03/2020,CABA,1,2
+03/2020,06/03/2020,CABA,4,6
+03/2020,06/03/2020,BUENOS AIRES,1,7
+03/2020,06/03/2020,CÓRDOBA,1,8
+03/2020,07/03/2020,BUENOS AIRES,0,8
+03/2020,08/03/2020,CABA,2,10
+03/2020,08/03/2020,BUENOS AIRES,2,12
+03/2020,09/03/2020,CABA,1,13
+03/2020,09/03/2020,SAN LUIS,1,14
+03/2020,09/03/2020,CHACO,2,16
+03/2020,09/03/2020,RÍO NEGRO,1,17
+03/2020,10/03/2020,CABA,1,18
+03/2020,10/03/2020,BUENOS AIRES,1,19
+03/2020,11/03/2020,CABA,1,20
+03/2020,11/03/2020,BUENOS AIRES,1,21
+03/2020,12/03/2020,CÓRDOBA,2,23
+03/2020,12/03/2020,BUENOS AIRES,3,26
+03/2020,12/03/2020,CHACO,2,28
+03/2020,12/03/2020,CABA,3,31
+03/2020,13/03/2020,BUENOS AIRES,1,32
+03/2020,13/03/2020,CABA,2,34
+03/2020,14/03/2020,CABA,7,41
+03/2020,14/03/2020,SANTA FE,1,42
+03/2020,14/03/2020,CHACO,1,43
+03/2020,14/03/2020,BUENOS AIRES,2,45
+03/2020,15/03/2020,CABA,6,51
+03/2020,15/03/2020,CHACO,2,53
+03/2020,15/03/2020,TIERRA DEL FUEGO,2,55
+03/2020,15/03/2020,BUENOS AIRES,1,56
+03/2020,16/03/2020,CABA,5,61
+03/2020,16/03/2020,CHACO,3,64
+03/2020,16/03/2020,BUENOS AIRES,1,65
+03/2020,17/03/2020,CABA,4,69
+03/2020,17/03/2020,BUENOS AIRES,2,71
+03/2020,17/03/2020,CHACO,1,72
+03/2020,17/03/2020,CÓRDOBA,2,74
+03/2020,17/03/2020,JUJUY,1,75
+03/2020,17/03/2020,SALTA,1,76
+03/2020,17/03/2020,RÍO NEGRO,1,77
+03/2020,17/03/2020,ENTRE RÍOS,1,78
+03/2020,17/03/2020,SANTA CRUZ,1,79
+03/2020,18/03/2020,CABA,10,89
+03/2020,18/03/2020,CHACO,1,90
+03/2020,18/03/2020,BUENOS AIRES,5,95
+03/2020,18/03/2020,CÓRDOBA,1,96
+03/2020,18/03/2020,ENTRE RÍOS,1,97
+03/2020,19/03/2020,BUENOS AIRES,15,112
+03/2020,19/03/2020,CABA,8,120
+03/2020,19/03/2020,CÓRDOBA,3,123
+03/2020,19/03/2020,CHACO,2,125
+03/2020,19/03/2020,TUCUMÁN,1,126
+03/2020,19/03/2020,SANTA FE,1,127
+03/2020,19/03/2020,RÍO NEGRO,1,128
+03/2020,20/03/2020,BUENOS AIRES,9,137
+03/2020,20/03/2020,CABA,9,146
+03/2020,20/03/2020,CÓRDOBA,5,151
+03/2020,20/03/2020,CHACO,1,152
+03/2020,20/03/2020,TIERRA DEL FUEGO,1,153
+03/2020,20/03/2020,ENTRE RÍOS,1,154
+03/2020,20/03/2020,CORRIENTES,1,155
+03/2020,20/03/2020,NEUQUÉN,2,157
+03/2020,20/03/2020,SANTIAGO DEL ESTERO,1,158
+03/2020,21/03/2020,CABA,29,187
+03/2020,21/03/2020,BUENOS AIRES,15,202
+03/2020,21/03/2020,CHACO,5,207
+03/2020,21/03/2020,MENDOZA,5,212
+03/2020,21/03/2020,CÓRDOBA,4,216
+03/2020,21/03/2020,TIERRA DEL FUEGO,3,219
+03/2020,21/03/2020,CORRIENTES,2,221
+03/2020,21/03/2020,SANTA FE,2,223
+03/2020,21/03/2020,TUCUMÁN,1,224
+03/2020,21/03/2020,RÍO NEGRO,1,225
+03/2020,22/03/2020,CABA,12,237
+03/2020,22/03/2020,BUENOS AIRES,8,245
+03/2020,22/03/2020,CÓRDOBA,8,253
+03/2020,22/03/2020,CHACO,7,260
+03/2020,22/03/2020,TUCUMÁN,5,265
+03/2020,22/03/2020,MISIONES,1,266
+03/2020,23/03/2020,CABA,11,277
+03/2020,23/03/2020,BUENOS AIRES,5,282
+03/2020,23/03/2020,SANTA FE,13,295
+03/2020,23/03/2020,CÓRDOBA,2,297
+03/2020,23/03/2020,CHACO,4,301
+03/2020,24/03/2020,BUENOS AIRES,30,331
+03/2020,24/03/2020,CABA,30,361
+03/2020,24/03/2020,CHACO,9,370
+03/2020,24/03/2020,CÓRDOBA,7,377
+03/2020,24/03/2020,TIERRA DEL FUEGO,4,381
+03/2020,24/03/2020,SANTA FE,3,384
+03/2020,24/03/2020,LA PAMPA,1,385
+03/2020,24/03/2020,NEUQUÉN,1,386
+03/2020,24/03/2020,SANTA CRUZ,1,387
+03/2020,25/03/2020,BUENOS AIRES,29,416
+03/2020,25/03/2020,SANTA FE,22,438
+03/2020,25/03/2020,CABA,20,458
+03/2020,25/03/2020,CÓRDOBA,15,473
+03/2020,25/03/2020,CHACO,12,485
+03/2020,25/03/2020,SANTA CRUZ,5,490
+03/2020,25/03/2020,SAN LUIS,4,494
+03/2020,25/03/2020,ENTRE RÍOS,3,497
+03/2020,25/03/2020,TUCUMÁN,2,499
+03/2020,25/03/2020,MENDOZA,1,500
+03/2020,25/03/2020,NEUQUÉN,1,501
+03/2020,25/03/2020,TIERRA DEL FUEGO,1,502
+03/2020,26/03/2020,CABA,30,532
+03/2020,26/03/2020,BUENOS AIRES,27,559
+03/2020,26/03/2020,SANTA FE,12,571
+03/2020,26/03/2020,CHACO,3,574
+03/2020,26/03/2020,CÓRDOBA,3,577
+03/2020,26/03/2020,TIERRA DEL FUEGO,3,580
+03/2020,26/03/2020,NEUQUÉN,3,583
+03/2020,26/03/2020,JUJUY,2,585
+03/2020,26/03/2020,SANTA CRUZ,2,587
+03/2020,26/03/2020,MENDOZA,1,588
+03/2020,26/03/2020,SAN LUIS,1,589
+03/2020,27/03/2020,CABA,30,619
+03/2020,27/03/2020,BUENOS AIRES,35,654
+03/2020,27/03/2020,CHACO,5,659
+03/2020,27/03/2020,CÓRDOBA,1,660
+03/2020,27/03/2020,TUCUMÁN,6,666
+03/2020,27/03/2020,SANTA FE,10,676
+03/2020,27/03/2020,ENTRE RÍOS,4,680
+03/2020,27/03/2020,NEUQUÉN,3,683
+03/2020,27/03/2020,MENDOZA,1,684
+03/2020,27/03/2020,RÍO NEGRO,4,688
+03/2020,27/03/2020,CORRIENTES,1,689
+03/2020,27/03/2020,SANTIAGO DEL ESTERO,1,690
+03/2020,27/03/2020,MISIONES,0,690
+03/2020,28/03/2020,CABA,18,708
+03/2020,28/03/2020,BUENOS AIRES,8,716
+03/2020,28/03/2020,SANTA FE,13,729
+03/2020,28/03/2020,CHACO,5,734
+03/2020,28/03/2020,CÓRDOBA,1,735
+03/2020,28/03/2020,TIERRA DEL FUEGO,3,738
+03/2020,28/03/2020,NEUQUÉN,2,740
+03/2020,28/03/2020,MENDOZA,1,741
+03/2020,28/03/2020,CORRIENTES,4,745
+03/2020,29/03/2020,BUENOS AIRES,16,761
+03/2020,29/03/2020,CABA,13,774
+03/2020,29/03/2020,CHACO,4,778
+03/2020,29/03/2020,SANTA FE,13,791
+03/2020,29/03/2020,CÓRDOBA,18,809
+03/2020,29/03/2020,TIERRA DEL FUEGO,4,813
+03/2020,29/03/2020,SAN JUAN,1,814
+03/2020,29/03/2020,CORRIENTES,1,815
+03/2020,29/03/2020,LA PAMPA,2,817
+03/2020,29/03/2020,LA RIOJA,1,818
+03/2020,29/03/2020,MENDOZA,1,819
+03/2020,29/03/2020,MISIONES,1,820
+03/2020,30/03/2020,BUENOS AIRES,36,856
+03/2020,30/03/2020,CABA,34,890
+03/2020,30/03/2020,CHACO,12,902
+03/2020,30/03/2020,SANTA FE,21,923
+03/2020,30/03/2020,CÓRDOBA,8,931
+03/2020,30/03/2020,TIERRA DEL FUEGO,11,942
+03/2020,30/03/2020,CORRIENTES,10,952
+03/2020,30/03/2020,ENTRE RÍOS,3,955
+03/2020,30/03/2020,MENDOZA,3,958
+03/2020,30/03/2020,NEUQUÉN,8,966
+03/2020,31/03/2020,BUENOS AIRES,17,983
+03/2020,31/03/2020,CABA,19,1002
+03/2020,31/03/2020,CHACO,3,1005
+03/2020,31/03/2020,CÓRDOBA,14,1019
+03/2020,31/03/2020,CORRIENTES,1,1020
+03/2020,31/03/2020,MENDOZA,2,1022
+03/2020,31/03/2020,MISIONES,1,1023
+03/2020,31/03/2020,RÍO NEGRO,1,1024
+03/2020,31/03/2020,SANTA FE,22,1046
+03/2020,31/03/2020,TIERRA DEL FUEGO,7,1053
+03/2020,31/03/2020,TUCUMÁN,1,1054
+04/2020,01/04/2020,BUENOS AIRES,10,1064
+04/2020,01/04/2020,CABA,10,1074
+04/2020,01/04/2020,CHACO,12,1086
+04/2020,01/04/2020,CÓRDOBA,6,1092
+04/2020,01/04/2020,CORRIENTES,1,1093
+04/2020,01/04/2020,ENTRE RÍOS,1,1094
+04/2020,01/04/2020,MENDOZA,10,1104
+04/2020,01/04/2020,NEUQUÉN,4,1108
+04/2020,01/04/2020,SALTA,2,1110
+04/2020,01/04/2020,SAN LUIS,1,1111
+04/2020,01/04/2020,SANTA CRUZ,10,1121
+04/2020,01/04/2020,SANTA FE,11,1132
+04/2020,01/04/2020,TUCUMÁN,1,1133
+04/2020,02/04/2020,CABA,24,1157
+04/2020,02/04/2020,BUENOS AIRES,36,1193
+04/2020,02/04/2020,TIERRA DEL FUEGO,24,1217
+04/2020,02/04/2020,CÓRDOBA,16,1233
+04/2020,02/04/2020,SANTA FE,8,1241
+04/2020,02/04/2020,NEUQUÉN,4,1245
+04/2020,02/04/2020,TUCUMÁN,4,1249
+04/2020,02/04/2020,CHACO,3,1252
+04/2020,02/04/2020,LA RIOJA,3,1255
+04/2020,02/04/2020,SAN LUIS,2,1257
+04/2020,02/04/2020,JUJUY,2,1259
+04/2020,02/04/2020,ENTRE RÍOS,2,1261
+04/2020,02/04/2020,SANTA CRUZ,2,1263
+04/2020,02/04/2020,SANTIAGO DEL ESTERO,1,1264
+04/2020,02/04/2020,CORRIENTES,1,1265
